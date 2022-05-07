@@ -1,3 +1,5 @@
+#Competitive Programming Task-1 
+
 s="A string."
 pointer=0
 print(s[0]+" "+str(pointer)+" "+"t")
